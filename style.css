@@ -27,7 +27,7 @@ video {
 	max-width: 500px!important;
 	height: auto!important;
 	padding: 15px!important;
-	border: white 1px solid!important;
+	border: white 2px solid!important;
 	transition: ease 0.4s!important;
 }
 
